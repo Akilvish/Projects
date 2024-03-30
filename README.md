@@ -1,6 +1,6 @@
 ## My Projects
 
-- [Project 1](Agile Video Call Functionality): Description of Project 1
+- [Project 1]([Agile Video Call Functionality](https://github.com/Akilvish/Projects/blob/734e4806baf67e7d4e9cd41189a8b9ebe7983b60/Agile%20Video%20Call%20Functionality)): Description of Project 1
 
 # 1.	Advanced data analysis on Excel:
 •	Performed EDA on a medical malpractice insurance dataset followed by hypothesis testing, chi-square tests and ANOVA tests.
