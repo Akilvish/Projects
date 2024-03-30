@@ -1,3 +1,7 @@
+## My Projects
+
+- [Project 1](path/to/project1): Description of Project 1
+
 # 1.	Advanced data analysis on Excel:
 •	Performed EDA on a medical malpractice insurance dataset followed by hypothesis testing, chi-square tests and ANOVA tests.
 # 2.	Forecasting Models: Multiple Regression, Logistic Regression, Interaction Plot, and Time Series Model:
