@@ -11,7 +11,9 @@ Chi-Square Test:
 
 Anova Two Factor with Replication:
 
-<img width="568" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/f61a0336-2cab-4d47-81f9-0926a2fc8e37">
+<img width="418" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/5c057dc9-19da-47a8-8ed2-a527c61288b5">
+
+<img width="460" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/958b38aa-8abf-4948-9540-286839f38251">
 
 Anova single Factor Test:
 
