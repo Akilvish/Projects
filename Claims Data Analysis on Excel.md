@@ -15,9 +15,11 @@ Anova Two Factor with Replication:
 
 Anova single Factor Test:
 
-<img width="186" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/ff7efd16-08f1-4488-a280-bfd56900e014">
+<img width="570" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/3ddb3709-5964-4303-a496-c9bbfb9cc5c4">
 
 Hypothesis Test for difference in the mean payout amounts:
+
+<img width="186" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/ff7efd16-08f1-4488-a280-bfd56900e014">
 
 <img width="773" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/24d7b8b6-8f57-4a30-aadf-be1636a3236c">
 
