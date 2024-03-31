@@ -14,7 +14,7 @@ Solution Approach:
 4. Capture results and insights with burndown charts.
    
 MVP 1:
-<img width="633" alt="image" src="MVP 1.png">
+<img width="633" alt="image" src="https://github.com/Akilvish/Projects/issues/1#issue-2216772351">
 
 MVP2:
 <img width="633" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/ea857a42-4f9a-4c23-83b2-1515cd7fb9b2">
