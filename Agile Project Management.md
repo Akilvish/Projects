@@ -13,13 +13,22 @@ Solution Approach:
 3. Developed two minimum viable products to be delivered over the two weeks duration.
 4. Capture results and insights with burndown charts.
    
-MVP 1:
+MVP for sprint 1:
 
 <img width="633" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/3652cec0-5aff-4612-9e47-4afdb3be60b0">
 
-MVP2:
+MVP for sprint 2:
 
 <img width="633" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/ea857a42-4f9a-4c23-83b2-1515cd7fb9b2">
+
+Burndown Chart for sprint 1:
+
+<img width="633" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/ea857a42-4f9a-4c23-83b2-1515cd7fb9b2">
+
+Burndown Chart for sprint 2:
+
+<img width="633" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/ea857a42-4f9a-4c23-83b2-1515cd7fb9b2">
+
 
 
 
