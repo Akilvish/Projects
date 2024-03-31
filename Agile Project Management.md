@@ -27,7 +27,7 @@ Burndown Chart for sprint 1:
 
 Burndown Chart for sprint 2:
 
-<img width="633" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/ea857a42-4f9a-4c23-83b2-1515cd7fb9b2">
+<img width="633" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/48694300-8b81-4647-9ce7-24ba7a159774">
 
 
 
