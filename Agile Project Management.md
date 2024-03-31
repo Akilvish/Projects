@@ -12,8 +12,10 @@ Solution Approach:
 2. Curated user stories from functional requirements and assigned them story points. 
 3. Developed two minimum viable products to be delivered over the two weeks duration.
 4. Capture results and insights with burndown charts.
+   
 MVP 1:
 <img width="633" alt="image" src="MVP 1.png">
+
 MVP2:
 <img width="633" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/ea857a42-4f9a-4c23-83b2-1515cd7fb9b2">
 
