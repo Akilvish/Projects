@@ -23,7 +23,7 @@ MVP for sprint 2:
 
 Burndown Chart for sprint 1:
 
-<img width="633" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/ea857a42-4f9a-4c23-83b2-1515cd7fb9b2">
+<img width="633" alt="https://github.com/Akilvish/Projects/assets/120144203/b9fa48ba-31ab-4401-aceb-ed108acafbed">
 
 Burndown Chart for sprint 2:
 
