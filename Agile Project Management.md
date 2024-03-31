@@ -13,7 +13,7 @@ Solution Approach:
 3. Developed two minimum viable products to be delivered over the two weeks duration.
 4. Capture results and insights with burndown charts.
 
-<img width="633" alt="image" src="https://github.com/Akilvish/Power-BI/assets/120144203/e44c1c3f-6f55-42a4-902b-5d8d6dc5fa08">
+<img width="633" alt="image" src="Picture1.png">
 
 
 
