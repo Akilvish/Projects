@@ -1,3 +1,7 @@
+Dataset: 
+
+<img width="675" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/1c076f68-24c8-43ae-afa4-1fa57fcbb010">
+
 Hypothesis Test for difference in Means:
 
 <img width="576" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/b69baeb2-b7f7-4048-861c-ba2fc313db40">
