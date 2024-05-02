@@ -14,7 +14,7 @@ Solution Approach:
 4. Capture results and insights with burndown charts.
    
 MVP for sprint 1:
-![Alt text](https://drive.google.com/file/d/1MUta7PLuSILvjy83IP3BoXaF8kWdhIxG/view?usp=drive_link "Optional title")
+![Alt text](https://drive.google.com/file/d/1MUta7PLuSILvjy83IP3BoXaF8kWdhIxG/view?usp=drive_link?raw=true "Optional title")
 
 <img width="633" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/3652cec0-5aff-4612-9e47-4afdb3be60b0">
 
