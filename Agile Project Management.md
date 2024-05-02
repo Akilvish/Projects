@@ -15,7 +15,7 @@ Solution Approach:
    
 MVP for sprint 1:
 
-<img width="633" alt="image" src="https://gitfront.io/r/Akilvish/rLTsavNHdKg5/assets/120144203/3652cec0-5aff-4612-9e47-4afdb3be60b0">
+<img width="633" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/3652cec0-5aff-4612-9e47-4afdb3be60b0">
 
 MVP for sprint 2:
 
