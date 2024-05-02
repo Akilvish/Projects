@@ -14,7 +14,7 @@ Solution Approach:
 4. Capture results and insights with burndown charts.
    
 MVP for sprint 1:
-![Alt text]("G:\My Drive\EBSCO\Sprint 1.png"?raw=true "Optional title")
+![Alt text](https://drive.google.com/drive/u/0/folders/1hO-xuwqQ2KJdMpkdjGXzWUPYb7Q9HtPe/Sprint 1.png?raw=true "Optional title")
 
 <img width="633" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/3652cec0-5aff-4612-9e47-4afdb3be60b0">
 
