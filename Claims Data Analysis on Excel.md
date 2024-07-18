@@ -6,32 +6,39 @@ Dataset Sample:
 
 Hypothesis Test for difference in Means:
 
-<img width="576" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/b69baeb2-b7f7-4048-861c-ba2fc313db40">
+Do claimants with private attorney receive higher payouts than those without private
+attorney?
+Answer: Yes, from the given dataset we could conclude that the claimants with private attorneys receive higher payout amount.
+We came to know that the difference between the average payout amounts for private and not private attorney representation, lies somewhere between 7863 and 25439 dollars.
+
 
 Hypothesis Test for Difference in Proportion:
-<img width="621" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/6a6a3f27-871a-4505-9484-c2c82cf27048">
+
+Is private attorney representation less common in malpractice claims agaisnt dermatologist
+than orthopedic surgeon?
+Answer: We could not conclude that private attorney representation is less common in malpractice claims agaisnt dermatologists than orthopaedic surgeons because we couldn’t gather enough evidence from the data that we have.
+Just by looking at the sample provided, we could see that the proportion of private attorney representation in claims against orthopaedic surgeons(63%) is more than dermatologists(51%) but we can’t conclude for both populations.
+
 
 Chi-Square Test:
 
-<img width="660" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/2f91fba9-0d96-4677-b9ce-2e7520b14c31">
+Do private attorney representation differ between surgeon physician specialities?
+Answer: Out of all four physician specialties, that are, Anaesthesiologists, Dermatologists, Obstetricians and Gynaecologists, and Orthopaedic surgeons, there is a difference in private attorneys representation for Anaesthesiologists and dermatologists.
+Anaesthesiologists have higher proportion of private attorneys representation compared to dermatologists.
+All the other specialties have no significant difference in their private attorney representations. 
+
 
 Anova Two Factor with Replication:
 
-<img width="418" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/5c057dc9-19da-47a8-8ed2-a527c61288b5">
+Design a experiment to look at the affect of private attorneys representation and insurance type
+on the amount claimed.
+Answer: The private attorney representation, that is divided into private and not private, is having significant effect on the mean payout amount claimed. And the mean payout amount is higher for claimants with private attorneys compared to claimants with not private attorneys.
+Thus, going with private attorney positively impacts claimed amount.
+The mean payout amount corresponding to the four insurance types that are Medicare/Medicaid, No Insurance, Private, Workers Compensation, may or not be different i.e. there is an effect of insurance type on claimed amount cannot be confirmed from the given data.
 
-<img width="460" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/958b38aa-8abf-4948-9540-286839f38251">
 
 Anova single Factor Test:
 
-<img width="570" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/3ddb3709-5964-4303-a496-c9bbfb9cc5c4">
-
-Hypothesis Test for difference in the mean payout amounts:
-
-<img width="186" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/ff7efd16-08f1-4488-a280-bfd56900e014">
-
-<img width="773" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/24d7b8b6-8f57-4a30-aadf-be1636a3236c">
-
-Hypothesis Test for mean difference of Acceptance Rate:
-
-<img width="786" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/751266a6-8e23-425a-8b16-d974be9452e1">
+Is the average payout significantly different across the physician specialities?
+Answer: We could confirm that the mean payout amount differs across the physician specialties that is, there is an effect of physician specialty over the average payout amount from the data provided. 
 
