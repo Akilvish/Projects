@@ -1,7 +1,7 @@
 Problem Statement: The given dataset is of medical malpractice and the business demands to compare results against multiple specialities and whether attorney's are private or not.
 
 Dataset Sample:
---------------
+_______________
 
 <img width="675" alt="image" src="https://github.com/Akilvish/Projects/assets/120144203/1c076f68-24c8-43ae-afa4-1fa57fcbb010">
 
