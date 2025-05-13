@@ -14,4 +14,4 @@ My Projects' Links:
 
 
 
-Link to [Main Profile Page](https://github.com/Akilvish/Projects/commits?author=Akilvish)
+Link to [Main Profile Page](https://github.com/Akilvish)
