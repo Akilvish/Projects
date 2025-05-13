@@ -11,3 +11,7 @@ My Projects' Links:
 * [Image Recognition via Python](https://github.com/Akilvish/Projects/blob/main/Image%20Recognition%20using%20Python.ipynb)
 
 * [Power BI Dashboards](https://github.com/Akilvish/Projects/blob/main/Power%20BI%20Dashboards.md)
+
+
+
+Link to [Main Profile Page](https://github.com/Akilvish/Projects/commits?author=Akilvish)
