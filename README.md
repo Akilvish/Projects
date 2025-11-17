@@ -1,7 +1,5 @@
 My Projects' Links:
 
-* [Agile Project Management](https://github.com/Akilvish/Projects/blob/main/Agile%20Project%20Management.md)
-
 * [AirBnb Customer Review Analysis](https://github.com/Akilvish/Projects/blob/main/AirBnb%20customer%20review%20analysis.pdf)
 
 *  [Claims Data Analysis on Excel](https://github.com/Akilvish/Projects/blob/main/Claims%20Data%20Analysis%20on%20Excel.md)
